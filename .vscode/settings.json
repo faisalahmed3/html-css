@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.semanticHighlighting.enabled": true,
+    "workbench.colorTheme": "Dracula Soft"
+}
